@@ -20,11 +20,11 @@ const projects = [
         live: "#"
     },
     {
-        title: "CRM Geral",
-        description: "Sistema de CRM versátil para qualificação de leads, cadastro de clientes e organização. Inclui funcionalidade de etiquetas personalizáveis.",
-        tech: ["React", "Vite", "Tailwind", "Python"],
-        image: "./projects/project3.png",
-        github: "#",
+        title: "FinDash",
+        description: "Dashboard financeiro para controle total das finanças. Gerencie receitas, gastos e parcelas em tempo real com análise por categoria e parcelas inteligentes.",
+        tech: ["Tailwind", "Python", "PostgreSQL"],
+        image: "./projects/project4.png",
+        github: "https://github.com/williamsimass/findash",
         live: "#"
     }
 ];
